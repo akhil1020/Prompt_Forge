@@ -200,7 +200,7 @@ Expected Output:
 - Add local LLM support (Ollama / LM Studio)
 
 ---
-[Check Out Here](https://promptforge1.streamlit.app/)
+
 
 
 ## 🤝 Contributing
@@ -219,6 +219,8 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 Developed as part of structured LLM experimentation and prompt engineering practice.
+
+if you want to see this live. [Check Out Here](https://promptforge1.streamlit.app/)
 
 ---
 
